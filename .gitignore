@@ -1,0 +1,9 @@
+/.idea
+/Library
+/Logs
+/Packages
+/ProjectSettings
+/Temp
+/*.sln
+/Assets/Plugins.meta
+/Assets/Plugins
